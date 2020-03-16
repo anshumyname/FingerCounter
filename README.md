@@ -12,4 +12,4 @@ then download the application file, and model weights, open it and change the pa
 Run the .py file in cmd or anaconda prompt.
 You'll see the ouput window with predictions.
 
-Refer to the PPT(see above HandProject) for info of the project.
+Refer to the PPT(see above HandProject) in the repo for info of the project.
